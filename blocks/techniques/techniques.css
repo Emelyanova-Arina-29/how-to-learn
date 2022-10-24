@@ -1,0 +1,10 @@
+.techniques {
+  padding-top: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: #000;
+  box-sizing: border-box;
+  min-width: 80%;
+  margin: 0;
+}
